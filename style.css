@@ -1,0 +1,22 @@
+.body_background 
+{
+    background-image:url('https://i.pinimg.com/564x/d8/ba/d8/d8bad8d9497f62c922d733273649a022.jpg');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 600px;
+	background-color: white;
+	display: inline-block;
+}
+
